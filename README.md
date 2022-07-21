@@ -1,12 +1,11 @@
 ### Всем привет👋 меня зовут Зырянов Владимир
+##
 
 В Январе 2020 года я cделал серьёзный шаг, перешёл из нефтяной сферы в сферу IT. 
 Так началось мое увлекательное путешествие в мир QA.
 
 В 2022 году мне посчастливилось попасть на курс автоматизации тестирования <a href="https://qa.guru/">QA GURU</a>.
 На курсе, я освоил следующие технологии:
-## 
-
 [<img alt="Java" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Java.svg" width="50"/>](https://www.java.com/)
 [<img alt="IDEA" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Idea.svg" width="50"/>](https://www.jetbrains.com/idea/)
 [<img alt="Appium" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Appium.svg" width="50"/>](https://appium.io/)
@@ -21,6 +20,7 @@
 [<img alt="Allure_EE" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Allure_EE.svg" width="50"/>](https://qameta.io/)
 [<img alt="Jenkins" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Jenkins.svg" width="50"/>](https://www.jenkins.io/)
 
+## Немного статистики
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zyryanovvm)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zyryanovvm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
