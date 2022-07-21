@@ -1,6 +1,11 @@
-### Hi there 👋
+### Всем привет👋 меня зовут Зырянов Владимир
 
-## :computer: Технологии, c которыми я работаю
+В Январе 2020 года я cделал серьёзный шаг, перешёл из нефтяной сферы в сферу IT. 
+Так началось мое увлекательное путешествие в мир QA.
+
+В 2022 году мне посчастливилось попасть на курс автоматизации тестирования <a href="https://qa.guru/">QA GURU</a>.
+На курсе, я освоил следующие технологии:
+## 
 
 [<img alt="Java" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Java.svg" width="50"/>](https://www.java.com/)
 [<img alt="IDEA" height="50" src="https://raw.githubusercontent.com/SvetlanaVaskevich/qa_guru_diplom/main/images/logo/Idea.svg" width="50"/>](https://www.jetbrains.com/idea/)
